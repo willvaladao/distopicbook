@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+
+header {
+    background-color: #cb6be3;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    display: inline-flex;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-right: 30px;
+}
+
+a:hover {
+    background-color: #cb6be3;
+}
+
+main {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.redes_sociais {
+    width: 50px;
+}
